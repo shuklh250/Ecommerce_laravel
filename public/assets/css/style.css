@@ -1,5 +1,24 @@
 .theme-navbar{
-
-    background-color: #0066cc;
-    
+    background-color: #0066cc;   
 }
+.theam-ornage-btn{
+    background-color: #ff6600;
+}
+.theam-ornage-btn:hover{
+    background-color: #ff6600;
+    opacity: 0.8;
+}
+.theam-green-btn{
+    background-color: #28A742;
+
+}
+.theam-green-btn:hover{
+    background-color: #28A742;
+    opacity: 0.8;
+}
+.theam-footer{
+    background-color: #0066cc;   
+}
+body {
+    font-family: 'Lato', sans-serif;
+  }
